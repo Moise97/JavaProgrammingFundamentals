@@ -1,0 +1,31 @@
+1. Java is created using programming languages. Java is one of the latest programming language.
+2. The formal specification of the template of an object is called a class.
+3. All objects of a class have identical behaviour.
+4. An object has data along with a set of valid operations.
+5. The data maintained by the object is hidden from the user.
+6. To use an object all that the user needs to know is the specification of its operations.
+7. Objects communicate through message passing.
+8. The object that request a service from another object is called is known as the client, and the object that provides
+   the service is called the server.
+9. The smallest unit of data that can be represented is a binary digit or a bit, which has just two possible values:
+   0 and 1; A sequence of 8 bits is known as a byte.
+10. Unicode is the character set used by Java. Unicode consist of 65,536 characters and uses 2 bytes to represent a
+    character.
+11. The program as well as the data is first placed in teh memory as a prelude to execution.
+12. The central processing unit CPU is responsible by carrying out various operations and it communicates with memory
+    for instructions and data.
+13. The memory can be visualised as an ordered sequence of cells, called words.
+14. Every computer has a machine language.
+15. The symbolic language of a machine is also known as its assembly language.
+16. An assembler translates a symbolic language program into a machine language program.
+17. A compiler translates a high-level language program into a machine language program.
+18. The virtual machine that can understand the bytecode is termed of Java is called JVM.
+19. Java provides many precompiled programs organized as various libraries also known as packages.
+20. The system software linker links a user's bytecode program with another necessary precompiled programs to create
+    a complete executable bytecode program.
+21. The system software loader loads a linked bytecode program into main memory and start the execution.
+22. A use-case diagram specifies the functional requirements of the system to be developed.
+23. Graphically, we show the boundary by drawing a rectangle.
+24. Each use case, denoted by an oval symbol, stands for a functional requirement of the system to be developed.
+25. Users of the system as well as other external systems with which the system needs to interact are called actors.
+26. An actor and a use case are connected by arrows starting from the initiator of the action.
